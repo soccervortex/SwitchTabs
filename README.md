@@ -22,7 +22,7 @@ A simple and lightweight Windows utility built with AutoHotkey that lets you swi
 3. Press:
    - `Numpad 2` to switch to the **next desktop**
    - `Numpad 1` to switch to the **previous desktop**
-4. The script runs in the background — you’ll see a green "H" icon in the system tray.
+4. The script runs in the background — you’ll see a "Tabs" icon in the system tray.
 
 ## 🔧 Requirements
 
@@ -36,6 +36,12 @@ A simple and lightweight Windows utility built with AutoHotkey that lets you swi
 
 **Q:** Can I customize the hotkeys?  
 **A:** Yes! If you're comfortable with AutoHotkey, you can edit the script and recompile it.
+
+## 🚀 TO DOWNLOAD THE SCRIPT FOR EDITING:
+
+👉 [Download the latest AHK file ](https://github.com/soccervortex/SwitchTabs/releases)
+
+> You need to install AutoHotkey — just download it and edit and run the AHK then compile it back to EXE and done.
 
 ## 🧑‍💻 Built With
 
