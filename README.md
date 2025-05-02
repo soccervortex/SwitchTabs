@@ -4,8 +4,8 @@ A simple and lightweight Windows utility built with AutoHotkey that lets you swi
 
 ## 🎯 Features
 
-- 🔽 **Numpad 2** — Switch to the next virtual desktop (Ctrl + Win + →)
-- 🔼 **Numpad 1** — Switch to the previous virtual desktop (Ctrl + Win + ←)
+- ➡️ **Numpad 2** — Switch to the next virtual desktop (Ctrl + Win + →)
+- ⬅️ **Numpad 1** — Switch to the previous virtual desktop (Ctrl + Win + ←)
 - 🪶 Lightweight and fast (compiled AutoHotkey EXE)
 - 🖥️ Designed for Windows 10 and 11 virtual desktop users
 
